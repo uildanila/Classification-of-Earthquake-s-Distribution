@@ -1,0 +1,823 @@
+Date,Mag,Lattitude,Longitude,Depth,KETERANGAN_LOKASI,Patahan
+16-01-2020,4.2,-5.72,120.63,10,51 km TimurLaut Selayar,Patahan Walanae
+16-01-2020,2.3,-2.82,119.42,10,19 km TimurLaut Mamasa,Patahan Saddang
+17-01-2020,3.2,-5.68,120.68,10,55 km Tenggara Bulukumba,Patahan Walanae
+17-01-2020,3.1,-2.84,119.43,10,18 km TimurLaut Mamasa,Patahan Saddang
+17-01-2020,2.8,-1.71,119.97,60,30 km BaratDaya Kulawi,Patahan Palu Koro
+17-01-2020,2.7,-1.59,120.08,10,19 km Tenggara Kulawi,Patahan Palu Koro
+17-01-2020,2.8,-1.33,119.50,10,49 km BaratDaya Sigi,Patahan Palu Koro
+17-01-2020,2.9,-0.95,119.90,26,4 km BaratDaya Palu,Patahan Palu Koro
+18-01-2020,2.2,-3.63,119.37,17,26 km BaratDaya Polewali,Patahan Saddang
+18-01-2020,3.1,-1.24,119.56,10,41 km BaratDaya Sigi,Patahan Palu Koro
+19-01-2020,2.9,-2.34,120.78,10,20 km TimurLaut Mangkutana,Patahan Matano
+20-01-2020,3.3,-1.80,119.65,10,54 km BaratDaya Kulawi,Patahan Palu Koro
+21-01-2020,3.5,-5.26,120.90,10,74 km Tenggara Barru,Patahan Walanae
+22-01-2020,2.7,-2.68,119.13,10,25 km BaratLaut Mambi,Patahan Saddang
+23-01-2020,3.3,-1.24,120.31,10,43 km TimurLaut Kulawi,Patahan Palu Koro
+24-01-2020,3.2,-1.07,120.51,10,67 km TimurLaut Sigi,Patahan Palu Koro
+25-01-2020,4.0,-1.48,120.10,10,14 km Tenggara Kulawi,Patahan Palu Koro
+26-01-2020,2.2,-2.46,118.92,10,57 km BaratLaut Mambi,Patahan Saddang
+26-01-2020,3.2,-2.45,118.89,10,60 km BaratLaut Mambi,Patahan Saddang
+26-01-2020,3.1,-0.99,120.52,10,69 km Tenggara Palu,Patahan Palu Koro
+29-01-2020,3.1,-1.43,120.04,10,7 km TimurLaut Kulawi,Patahan Palu Koro
+31-01-2020,3.7,-1.49,120.05,10,9 km Tenggara Kulawi,Patahan Palu Koro
+01-02-2020,3.4,-2.53,121.42,10,7 km BaratLaut Nuha,Patahan Matano
+02-02-2020,4.2,-7.28,120.18,517,130 km BaratDaya Selayar,Patahan Walanae
+03-02-2020,3.9,-4.10,122.71,10,23 km Tenggara Konawe,Patahan Lawanopo
+03-02-2020,2.9,-2.59,121.37,14,6 km BaratLaut Nuha,Patahan Matano
+05-02-2020,2.7,-1.44,120.09,10,12 km TimurLaut Kulawi,Patahan Palu Koro
+06-02-2020,2.4,-3.69,119.13,26,23 km Tenggara Majene,Patahan Saddang
+06-02-2020,4.1,-2.83,123.19,10,131 km TimurLaut Kendari,Patahan Lawanopo
+06-02-2020,2.7,-2.53,121.15,10,27 km BaratLaut Malili,Patahan Matano
+06-02-2020,3.1,-2.45,121.01,10,40 km BaratDaya Lembo,Patahan Matano
+07-02-2020,2.0,-1.17,119.92,12,5 km BaratLaut Sigi,Patahan Palu Koro
+08-02-2020,2.4,-2.85,119.46,10,19 km TimurLaut Mamasa,Patahan Saddang
+09-02-2020,1.9,-3.70,119.89,10,21 km Tenggara Enrekang,Patahan Saddang
+09-02-2020,2.8,-2.56,121.14,10,24 km BaratLaut Malili,Patahan Matano
+09-02-2020,3.1,-1.32,119.46,10,53 km BaratDaya Sigi,Patahan Palu Koro
+09-02-2020,3.4,-0.85,119.14,11,69 km BaratDaya Donggala,Patahan Palu Koro
+10-02-2020,3.1,-0.91,120.26,10,39 km TimurLaut Palu,Patahan Palu Koro
+11-02-2020,2.0,-2.75,121.01,10,22 km BaratLaut Tolala,Patahan Lawanopo
+11-02-2020,2.7,-2.20,119.14,11,77 km BaratLaut Mambi,Patahan Saddang
+12-02-2020,2.5,-5.64,120.67,10,53 km Tenggara Bulukumba,Patahan Walanae
+12-02-2020,2.1,-2.94,119.37,10,5 km TimurLaut Mamasa,Patahan Saddang
+12-02-2020,3.9,-2.91,119.37,10,8 km TimurLaut Mamasa,Patahan Saddang
+12-02-2020,2.2,-2.87,119.48,10,17 km BaratLaut Pana,Patahan Saddang
+12-02-2020,2.0,-2.68,121.02,10,24 km BaratLaut Malili,Patahan Matano
+13-02-2020,2.2,-3.16,119.78,10,13 km BaratDaya Tana Toraja,Patahan Saddang
+13-02-2020,1.7,-2.94,119.39,12,6 km TimurLaut Mamasa,Patahan Saddang
+13-02-2020,2.2,-2.92,119.40,10,9 km TimurLaut Mamasa,Patahan Saddang
+13-02-2020,1.7,-2.92,119.41,10,9 km TimurLaut Mamasa,Patahan Saddang
+13-02-2020,2.1,-2.79,118.70,10,57 km BaratLaut Mambi,Patahan Saddang
+14-02-2020,4.4,-1.28,120.04,10,15 km Tenggara Sigi,Patahan Palu Koro
+15-02-2020,3.2,-2.93,119.38,10,6 km TimurLaut Mamasa,Patahan Saddang
+15-02-2020,3.1,-2.93,122.38,10,52 km Tenggara Kolono,Patahan Matano
+18-02-2020,2.9,-2.90,119.42,10,12 km TimurLaut Mamasa,Patahan Saddang
+18-02-2020,2.6,-2.88,119.46,10,17 km TimurLaut Mamasa,Patahan Saddang
+18-02-2020,3.0,-1.46,120.28,10,33 km Tenggara Kulawi,Patahan Palu Koro
+21-02-2020,3.0,-2.92,119.41,10,9 km TimurLaut Mamasa,Patahan Saddang
+21-02-2020,2.8,-2.90,119.42,10,12 km TimurLaut Mamasa,Patahan Saddang
+22-02-2020,2.7,-2.53,121.41,10,7 km BaratLaut Nuha,Patahan Matano
+22-02-2020,2.7,-2.51,121.43,10,9 km TimurLaut Nuha,Patahan Matano
+22-02-2020,4.1,-2.48,121.43,10,12 km TimurLaut Nuha,Patahan Matano
+23-02-2020,2.5,-2.64,120.17,10,20 km BaratDaya Masamba,Patahan Palu Koro
+23-02-2020,3.3,-2.20,120.88,10,36 km TimurLaut Mangkutana,Patahan Matano
+23-02-2020,1.7,-1.23,119.68,13,27 km BaratDaya Sigi,Patahan Palu Koro
+24-02-2020,2.7,-2.23,121.28,10,6 km BaratLaut Lembo,Patahan Matano
+24-02-2020,3.4,-0.49,119.85,10,23 km TimurLaut Donggala,Patahan Palu Koro
+25-02-2020,3.5,-2.40,120.97,10,41 km Tenggara Mangkutana,Patahan Matano
+25-02-2020,4.0,-2.40,120.99,10,40 km BaratDaya Lembo,Patahan Matano
+25-02-2020,3.7,-2.40,121.03,10,36 km BaratDaya Lembo,Patahan Matano
+26-02-2020,2.3,-2.97,119.41,10,7 km TimurLaut Mamasa,Patahan Saddang
+26-02-2020,2.3,-2.93,119.40,10,8 km TimurLaut Mamasa,Patahan Saddang
+26-02-2020,2.3,-2.91,119.41,10,10 km TimurLaut Mamasa,Patahan Saddang
+27-02-2020,2.2,-2.93,119.40,10,8 km TimurLaut Mamasa,Patahan Saddang
+27-02-2020,2.6,-2.91,119.42,10,11 km TimurLaut Mamasa,Patahan Saddang
+27-02-2020,2.6,-2.91,119.43,10,12 km TimurLaut Mamasa,Patahan Saddang
+27-02-2020,2.6,-2.91,119.44,10,13 km TimurLaut Mamasa,Patahan Saddang
+27-02-2020,2.9,-1.00,120.22,10,36 km Tenggara Palu,Patahan Palu Koro
+28-02-2020,2.2,-1.61,119.44,10,63 km BaratDaya Kulawi,Patahan Palu Koro
+28-02-2020,1.9,-1.45,120.16,10,20 km Tenggara Kulawi,Patahan Palu Koro
+28-02-2020,2.6,-1.15,120.61,10,76 km TimurLaut Sigi,Patahan Palu Koro
+29-02-2020,3.9,-0.83,120.30,10,45 km TimurLaut Palu,Patahan Palu Koro
+29-02-2020,4.7,-0.78,120.31,10,47 km TimurLaut Palu,Patahan Palu Koro
+01-03-2020,2.8,-1.34,120.38,10,46 km TimurLaut Kulawi,Patahan Palu Koro
+01-03-2020,3.0,-0.81,120.24,10,39 km TimurLaut Palu,Patahan Palu Koro
+02-03-2020,2.7,-2.98,119.66,10,17 km TimurLaut Pana,Patahan Saddang
+02-03-2020,3.3,-2.39,122.44,11,60 km TimurLaut Kolono,Patahan Matano
+02-03-2020,2.7,-2.33,121.11,10,25 km BaratDaya Lembo,Patahan Matano
+03-03-2020,2.8,-3.26,120.80,95,49 km BaratDaya Tolala,Patahan Lawanopo
+03-03-2020,2.5,-3.11,119.66,11,19 km BaratDaya Tana Toraja,Patahan Saddang
+03-03-2020,2.2,-2.89,119.46,10,15 km BaratLaut Pana,Patahan Saddang
+03-03-2020,2.5,-2.63,121.99,10,5 km TimurLaut Kolono,Patahan Matano
+03-03-2020,2.2,-1.23,120.38,10,50 km TimurLaut Kulawi,Patahan Palu Koro
+04-03-2020,2.7,-2.91,119.40,10,10 km TimurLaut Mamasa,Patahan Saddang
+04-03-2020,2.7,-2.61,120.86,10,39 km Tenggara Mangkutana,Patahan Matano
+04-03-2020,4.2,-2.28,122.33,10,58 km TimurLaut Kolono,Patahan Matano
+05-03-2020,1.7,-5.04,119.65,14,28 km TimurLaut Gowa,Patahan Walanae
+05-03-2020,1.8,-3.85,119.69,10,8 km Tenggara Pinrang,Patahan Walanae
+05-03-2020,1.8,-3.85,119.72,15,10 km Tenggara Pinrang,Patahan Walanae
+05-03-2020,2.3,-2.85,119.38,10,15 km TimurLaut Mamasa,Patahan Saddang
+05-03-2020,3.1,-2.30,121.02,10,34 km BaratDaya Lembo,Patahan Matano
+05-03-2020,3.5,-1.68,120.06,10,28 km Tenggara Kulawi,Patahan Palu Koro
+05-03-2020,3.0,-1.52,120.14,10,19 km Tenggara Kulawi,Patahan Palu Koro
+06-03-2020,3.6,-5.72,120.66,10,52 km TimurLaut Selayar,Patahan Walanae
+06-03-2020,2.7,-0.90,120.23,10,36 km TimurLaut Palu,Patahan Palu Koro
+07-03-2020,2.7,-2.86,119.41,10,15 km TimurLaut Mamasa,Patahan Saddang
+07-03-2020,2.7,-2.48,121.04,10,37 km BaratLaut Malili,Patahan Matano
+08-03-2020,2.8,-3.64,121.74,10,28 km BaratDaya Kec. Asera,Patahan Lawanopo
+08-03-2020,2.2,-1.55,120.11,10,18 km Tenggara Kulawi,Patahan Palu Koro
+09-03-2020,2.3,-2.34,121.02,10,34 km BaratDaya Lembo,Patahan Matano
+10-03-2020,2.6,-2.28,118.66,31,90 km BaratLaut Mambi,Patahan Saddang
+10-03-2020,2.3,-1.54,119.53,10,51 km BaratDaya Kulawi,Patahan Palu Koro
+11-03-2020,2.3,-2.92,119.38,10,7 km TimurLaut Mamasa,Patahan Saddang
+11-03-2020,2.1,-2.90,119.39,10,10 km TimurLaut Mamasa,Patahan Saddang
+13-03-2020,2.6,-2.90,119.41,10,11 km TimurLaut Mamasa,Patahan Saddang
+13-03-2020,2.6,-2.88,119.41,10,13 km TimurLaut Mamasa,Patahan Saddang
+13-03-2020,2.8,-1.31,119.22,10,79 km BaratDaya Sigi,Patahan Palu Koro
+13-03-2020,3.3,-1.30,119.22,10,79 km BaratDaya Sigi,Patahan Palu Koro
+14-03-2020,2.6,-5.08,119.58,10,20 km TimurLaut Gowa,Patahan Walanae
+14-03-2020,3.2,-2.86,119.38,10,14 km TimurLaut Mamasa,Patahan Saddang
+15-03-2020,2.5,-3.57,119.24,22,25 km BaratDaya Polewali,Patahan Saddang
+15-03-2020,2.8,-2.88,119.43,10,14 km TimurLaut Mamasa,Patahan Saddang
+15-03-2020,2.1,-2.22,120.85,10,32 km TimurLaut Mangkutana,Patahan Matano
+15-03-2020,3.6,-1.23,120.30,10,42 km Tenggara Sigi,Patahan Palu Koro
+15-03-2020,4.0,-1.20,120.81,10,96 km TimurLaut Kulawi,Patahan Palu Koro
+15-03-2020,3.0,-1.09,120.10,10,24 km TimurLaut Sigi,Patahan Palu Koro
+17-03-2020,2.7,-2.89,119.40,10,11 km TimurLaut Mamasa,Patahan Saddang
+17-03-2020,3.2,-2.89,122.33,10,45 km Tenggara Kolono,Patahan Matano
+17-03-2020,2.7,-2.18,120.81,10,31 km TimurLaut Mangkutana,Patahan Matano
+17-03-2020,2.6,-1.45,120.53,10,61 km Tenggara Kulawi,Patahan Palu Koro
+17-03-2020,3.2,-0.63,120.86,18,111 km TimurLaut Palu,Patahan Palu Koro
+17-03-2020,2.4,-0.58,119.82,10,14 km TimurLaut Donggala,Patahan Palu Koro
+17-03-2020,3.1,-0.56,119.77,10,13 km TimurLaut Donggala,Patahan Palu Koro
+17-03-2020,3.4,-0.55,119.78,10,14 km TimurLaut Donggala,Patahan Palu Koro
+18-03-2020,2.3,-1.65,120.33,10,45 km Tenggara Kulawi,Patahan Palu Koro
+19-03-2020,2.7,-1.58,120.99,11,84 km BaratLaut Lembo,Patahan Matano
+19-03-2020,3.5,-1.36,120.46,10,54 km TimurLaut Kulawi,Patahan Palu Koro
+19-03-2020,2.6,-1.33,120.66,10,76 km TimurLaut Kulawi,Patahan Palu Koro
+19-03-2020,3.2,-1.31,120.58,10,68 km TimurLaut Kulawi,Patahan Palu Koro
+19-03-2020,3.3,-1.31,120.62,10,72 km TimurLaut Kulawi,Patahan Palu Koro
+19-03-2020,4.4,-1.24,120.63,10,75 km TimurLaut Kulawi,Patahan Palu Koro
+20-03-2020,3.3,-1.35,120.36,10,43 km TimurLaut Kulawi,Patahan Palu Koro
+21-03-2020,2.6,-2.40,120.76,10,18 km Tenggara Mangkutana,Patahan Matano
+23-03-2020,3.6,-1.61,120.22,10,32 km Tenggara Kulawi,Patahan Palu Koro
+23-03-2020,1.8,-0.97,119.87,10,7 km BaratDaya Palu,Patahan Palu Koro
+24-03-2020,2.0,-6.04,120.13,10,37 km BaratLaut Selayar,Patahan Walanae
+24-03-2020,2.2,-4.86,119.61,10,43 km TimurLaut Gowa,Patahan Walanae
+25-03-2020,2.4,-2.43,120.78,10,21 km Tenggara Mangkutana,Patahan Matano
+25-03-2020,2.6,-2.02,120.57,10,39 km BaratLaut Mangkutana,Patahan Matano
+25-03-2020,2.3,-1.59,120.16,10,25 km Tenggara Kulawi,Patahan Palu Koro
+25-03-2020,4.0,-1.28,120.40,10,50 km TimurLaut Kulawi,Patahan Palu Koro
+25-03-2020,2.7,-0.99,119.92,10,8 km Tenggara Palu,Patahan Palu Koro
+26-03-2020,3.3,-4.12,120.01,10,14 km Tenggara Belawa,Patahan Walanae
+26-03-2020,2.7,-4.08,120.08,10,16 km Tenggara Belawa,Patahan Walanae
+26-03-2020,2.5,-4.05,120.08,13,15 km Tenggara Belawa,Patahan Walanae
+26-03-2020,2.2,-4.03,120.19,10,27 km Tenggara Belawa,Patahan Walanae
+26-03-2020,4.3,-1.00,120.72,10,91 km Tenggara Palu,Patahan Palu Koro
+27-03-2020,2.0,-4.09,119.86,10,13 km BaratDaya Belawa,Patahan Walanae
+27-03-2020,4.5,-4.08,120.08,10,16 km Tenggara Belawa,Patahan Walanae
+27-03-2020,2.8,-4.07,120.04,10,12 km Tenggara Belawa,Patahan Walanae
+27-03-2020,2.5,-4.02,119.95,10,1 km BaratLaut Belawa,Patahan Walanae
+27-03-2020,1.9,-4.00,120.20,10,28 km TimurLaut Belawa,Patahan Walanae
+27-03-2020,2.4,-3.99,120.23,10,31 km TimurLaut Belawa,Patahan Walanae
+27-03-2020,1.9,-2.23,121.24,10,9 km BaratLaut Lembo,Patahan Matano
+27-03-2020,2.9,-1.87,120.49,10,57 km BaratLaut Mangkutana,Patahan Matano
+27-03-2020,3.2,-1.37,120.42,10,49 km TimurLaut Kulawi,Patahan Palu Koro
+27-03-2020,2.5,-1.16,119.98,10,8 km TimurLaut Sigi,Patahan Palu Koro
+27-03-2020,2.9,-0.86,120.30,10,44 km TimurLaut Palu,Patahan Palu Koro
+27-03-2020,1.9,-0.43,119.81,10,28 km TimurLaut Donggala,Patahan Palu Koro
+28-03-2020,2.2,-4.18,119.82,13,24 km BaratDaya Belawa,Patahan Walanae
+28-03-2020,2.0,-4.05,120.23,10,31 km Tenggara Belawa,Patahan Walanae
+28-03-2020,3.8,-2.87,119.37,10,12 km TimurLaut Mamasa,Patahan Saddang
+28-03-2020,2.6,-2.81,119.46,10,22 km TimurLaut Mamasa,Patahan Saddang
+28-03-2020,4.3,-1.71,120.14,10,34 km Tenggara Kulawi,Patahan Palu Koro
+28-03-2020,5.9,-1.70,120.15,13,34 km Tenggara Kulawi,Patahan Palu Koro
+28-03-2020,3.0,-1.05,120.71,10,89 km TimurLaut Sigi,Patahan Palu Koro
+28-03-2020,2.9,-0.91,120.30,10,44 km TimurLaut Palu,Patahan Palu Koro
+29-03-2020,3.1,-2.79,122.13,10,20 km Tenggara Kolono,Patahan Matano
+29-03-2020,2.9,-2.39,120.66,10,7 km Tenggara Mangkutana,Patahan Matano
+29-03-2020,3.8,-1.79,120.15,10,43 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.6,-1.77,120.13,10,40 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.7,-1.76,120.29,10,49 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.9,-1.75,120.13,10,38 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.5,-1.75,120.14,10,38 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.7,-1.75,120.14,10,38 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.9,-1.74,120.14,10,37 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.8,-1.73,120.14,10,36 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,3.1,-1.72,120.12,10,34 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,3.9,-1.72,120.14,10,35 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,3.2,-1.71,120.13,10,34 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,4.1,-1.71,120.14,10,34 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,3.5,-1.71,120.14,10,34 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,3.7,-1.70,120.13,10,33 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,4.2,-1.69,120.14,10,32 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,3.3,-1.68,120.13,10,31 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.4,-1.67,120.24,10,38 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.3,-1.66,120.12,10,28 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,3.5,-1.65,120.13,10,28 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.6,-1.61,120.26,18,36 km Tenggara Kulawi,Patahan Palu Koro
+29-03-2020,2.9,-1.40,120.52,10,60 km TimurLaut Kulawi,Patahan Palu Koro
+30-03-2020,2.8,-4.09,122.41,10,34 km BaratDaya Konawe,Patahan Lawanopo
+30-03-2020,3.3,-3.48,120.31,10,62 km TimurLaut Enrekang,Patahan Saddang
+30-03-2020,3.6,-2.04,120.45,10,40 km BaratLaut Mangkutana,Patahan Matano
+30-03-2020,2.7,-1.77,120.11,10,39 km Tenggara Kulawi,Patahan Palu Koro
+30-03-2020,2.3,-1.75,120.14,10,38 km Tenggara Kulawi,Patahan Palu Koro
+30-03-2020,3.3,-1.72,120.13,10,35 km Tenggara Kulawi,Patahan Palu Koro
+30-03-2020,2.7,-1.71,120.09,10,32 km Tenggara Kulawi,Patahan Palu Koro
+30-03-2020,3.7,-1.71,120.15,10,35 km Tenggara Kulawi,Patahan Palu Koro
+30-03-2020,3.8,-1.70,120.16,10,35 km Tenggara Kulawi,Patahan Palu Koro
+31-03-2020,2.0,-4.93,119.68,10,40 km TimurLaut Gowa,Patahan Walanae
+31-03-2020,3.0,-3.34,121.79,10,7 km TimurLaut Kec. Asera,Patahan Lawanopo
+31-03-2020,2.3,-2.44,118.90,10,60 km BaratLaut Mambi,Patahan Saddang
+31-03-2020,2.1,-2.42,118.82,10,67 km BaratLaut Mambi,Patahan Saddang
+31-03-2020,2.3,-1.70,120.09,10,31 km Tenggara Kulawi,Patahan Palu Koro
+01-04-2020,2.6,-2.48,120.66,10,14 km Tenggara Mangkutana,Patahan Matano
+01-04-2020,3.2,-2.16,120.71,10,26 km TimurLaut Mangkutana,Patahan Matano
+01-04-2020,2.3,-1.75,120.14,10,38 km Tenggara Kulawi,Patahan Palu Koro
+01-04-2020,2.5,-1.61,120.12,10,24 km Tenggara Kulawi,Patahan Palu Koro
+01-04-2020,3.1,-0.28,120.42,11,87 km TimurLaut Donggala,Patahan Palu Koro
+02-04-2020,2.1,-2.88,119.37,10,11 km TimurLaut Mamasa,Patahan Saddang
+02-04-2020,3.2,-2.87,119.44,10,16 km TimurLaut Mamasa,Patahan Saddang
+02-04-2020,2.4,-1.73,120.14,10,36 km Tenggara Kulawi,Patahan Palu Koro
+02-04-2020,3.0,-1.36,120.48,10,56 km TimurLaut Kulawi,Patahan Palu Koro
+02-04-2020,2.5,-1.10,120.29,10,42 km TimurLaut Sigi,Patahan Palu Koro
+02-04-2020,2.5,-1.06,120.35,10,50 km TimurLaut Sigi,Patahan Palu Koro
+03-04-2020,4.1,-2.92,119.38,10,7 km TimurLaut Mamasa,Patahan Saddang
+03-04-2020,2.6,-2.87,119.44,10,16 km TimurLaut Mamasa,Patahan Saddang
+03-04-2020,2.6,-2.87,119.45,10,17 km TimurLaut Mamasa,Patahan Saddang
+03-04-2020,2.4,-2.87,119.45,10,17 km TimurLaut Mamasa,Patahan Saddang
+03-04-2020,2.7,-2.43,120.60,10,7 km BaratLaut Mangkutana,Patahan Matano
+03-04-2020,3.3,-0.82,119.86,10,12 km BaratLaut Palu,Patahan Palu Koro
+03-04-2020,2.9,-0.76,120.25,24,42 km TimurLaut Palu,Patahan Palu Koro
+04-04-2020,1.7,-3.70,119.95,10,26 km Tenggara Enrekang,Patahan Saddang
+04-04-2020,3.4,-2.62,121.66,10,22 km BaratDaya Morowali,Patahan Matano
+04-04-2020,2.8,-1.78,120.14,10,41 km Tenggara Kulawi,Patahan Palu Koro
+04-04-2020,2.7,-1.71,120.11,10,33 km Tenggara Kulawi,Patahan Palu Koro
+04-04-2020,2.9,-1.61,120.30,10,40 km Tenggara Kulawi,Patahan Palu Koro
+04-04-2020,2.8,-1.31,120.47,10,56 km TimurLaut Kulawi,Patahan Palu Koro
+05-04-2020,2.6,-3.69,119.33,13,33 km BaratDaya Polewali,Patahan Saddang
+05-04-2020,2.5,-1.73,120.12,10,35 km Tenggara Kulawi,Patahan Palu Koro
+05-04-2020,2.3,-1.33,120.29,10,36 km TimurLaut Kulawi,Patahan Palu Koro
+05-04-2020,2.5,-1.28,120.33,10,43 km TimurLaut Kulawi,Patahan Palu Koro
+06-04-2020,1.7,-4.17,119.90,12,19 km BaratDaya Belawa,Patahan Walanae
+06-04-2020,2.4,-2.47,121.18,10,28 km BaratDaya Lembo,Patahan Matano
+06-04-2020,3.1,-1.75,120.15,10,39 km Tenggara Kulawi,Patahan Palu Koro
+06-04-2020,3.4,-1.73,120.18,10,39 km Tenggara Kulawi,Patahan Palu Koro
+06-04-2020,3.3,-0.85,120.28,10,42 km TimurLaut Palu,Patahan Palu Koro
+07-04-2020,2.6,-2.49,121.44,10,11 km TimurLaut Nuha,Patahan Matano
+07-04-2020,2.4,-2.38,121.03,10,35 km BaratDaya Lembo,Patahan Matano
+07-04-2020,3.1,-1.72,120.14,10,35 km Tenggara Kulawi,Patahan Palu Koro
+07-04-2020,2.7,-0.88,120.40,10,55 km TimurLaut Palu,Patahan Palu Koro
+08-04-2020,2.5,-2.45,120.61,10,9 km Tenggara Mangkutana,Patahan Matano
+08-04-2020,3.3,-1.68,119.94,10,27 km BaratDaya Kulawi,Patahan Palu Koro
+08-04-2020,2.4,-1.46,119.96,10,3 km BaratDaya Kulawi,Patahan Palu Koro
+08-04-2020,4.9,-1.44,119.92,10,7 km BaratLaut Kulawi,Patahan Palu Koro
+08-04-2020,2.0,-0.55,119.85,10,18 km TimurLaut Donggala,Patahan Palu Koro
+09-04-2020,3.4,-3.14,123.29,96,110 km TimurLaut Konawe,Patahan Lawanopo
+09-04-2020,2.5,-2.88,119.42,10,14 km TimurLaut Mamasa,Patahan Saddang
+09-04-2020,3.1,-2.57,121.09,29,26 km BaratLaut Malili,Patahan Matano
+09-04-2020,2.6,-1.72,120.19,10,38 km Tenggara Kulawi,Patahan Palu Koro
+09-04-2020,3.5,-1.71,120.13,10,34 km Tenggara Kulawi,Patahan Palu Koro
+09-04-2020,3.8,-1.68,120.15,10,32 km Tenggara Kulawi,Patahan Palu Koro
+09-04-2020,4.2,-1.68,120.21,10,36 km Tenggara Kulawi,Patahan Palu Koro
+10-04-2020,3.8,-3.18,123.92,10,162 km TimurLaut Konawe,Patahan Lawanopo
+10-04-2020,3.1,-2.42,121.08,10,32 km BaratDaya Lembo,Patahan Matano
+11-04-2020,2.9,-2.42,121.23,10,20 km BaratDaya Lembo,Patahan Matano
+11-04-2020,4.2,-2.31,120.77,10,20 km TimurLaut Mangkutana,Patahan Matano
+11-04-2020,3.1,-2.31,120.79,10,22 km TimurLaut Mangkutana,Patahan Matano
+11-04-2020,3.1,-2.28,120.89,10,34 km TimurLaut Mangkutana,Patahan Matano
+11-04-2020,3.0,-0.81,119.91,10,12 km TimurLaut Palu,Patahan Palu Koro
+12-04-2020,4.0,-3.78,123.42,10,87 km TimurLaut Konawe,Patahan Lawanopo
+13-04-2020,2.1,-5.74,120.42,10,32 km Tenggara Bulukumba,Patahan Walanae
+14-04-2020,2.6,-2.53,121.17,10,26 km BaratLaut Malili,Patahan Matano
+14-04-2020,3.3,-2.39,121.00,10,38 km BaratDaya Lembo,Patahan Matano
+15-04-2020,3.1,-4.04,120.07,10,14 km Tenggara Belawa,Patahan Walanae
+15-04-2020,3.0,-2.49,121.29,10,18 km BaratLaut Nuha,Patahan Matano
+15-04-2020,3.4,-2.33,122.39,10,59 km TimurLaut Kolono,Patahan Matano
+17-04-2020,2.8,-2.25,120.50,10,17 km BaratLaut Mangkutana,Patahan Matano
+18-04-2020,3.1,-1.71,120.07,10,31 km Tenggara Kulawi,Patahan Palu Koro
+18-04-2020,3.7,-0.25,119.75,10,46 km TimurLaut Donggala,Patahan Palu Koro
+19-04-2020,2.0,-4.12,119.68,17,32 km BaratDaya Belawa,Patahan Walanae
+19-04-2020,2.9,-2.85,122.27,10,37 km Tenggara Kolono,Patahan Matano
+19-04-2020,3.5,-0.87,120.32,10,46 km TimurLaut Palu,Patahan Palu Koro
+20-04-2020,4.1,-2.35,120.83,10,26 km TimurLaut Mangkutana,Patahan Matano
+20-04-2020,3.8,-2.32,120.81,10,24 km TimurLaut Mangkutana,Patahan Matano
+20-04-2020,3.5,-2.24,120.12,10,42 km BaratLaut Masamba,Patahan Palu Koro
+20-04-2020,2.8,-2.06,120.80,10,41 km TimurLaut Mangkutana,Patahan Matano
+20-04-2020,2.7,-2.06,120.81,10,42 km TimurLaut Mangkutana,Patahan Matano
+21-04-2020,2.8,-2.77,119.22,90,14 km TimurLaut Mambi,Patahan Saddang
+21-04-2020,2.5,-1.39,120.44,10,51 km TimurLaut Kulawi,Patahan Palu Koro
+27-04-2020,3.1,-1.88,120.44,10,57 km BaratLaut Mangkutana,Patahan Matano
+27-04-2020,2.7,-1.71,120.12,10,33 km Tenggara Kulawi,Patahan Palu Koro
+28-04-2020,2.7,-1.69,120.11,10,31 km Tenggara Kulawi,Patahan Palu Koro
+28-04-2020,3.4,-0.67,119.85,10,13 km Tenggara Donggala,Patahan Palu Koro
+29-04-2020,2.3,-1.72,120.17,10,37 km Tenggara Kulawi,Patahan Palu Koro
+30-04-2020,3.4,-2.26,120.66,10,14 km TimurLaut Mangkutana,Patahan Matano
+30-04-2020,3.1,-1.74,120.32,10,50 km Tenggara Kulawi,Patahan Palu Koro
+30-04-2020,3.1,-1.70,120.92,10,76 km BaratLaut Lembo,Patahan Matano
+30-04-2020,3.1,-1.28,119.74,10,22 km BaratDaya Sigi,Patahan Palu Koro
+01-05-2020,3.6,-2.12,121.22,10,19 km BaratLaut Lembo,Patahan Matano
+01-05-2020,4.0,-1.00,120.69,10,88 km Tenggara Palu,Patahan Palu Koro
+03-05-2020,3.6,-0.43,119.79,10,27 km TimurLaut Donggala,Patahan Palu Koro
+03-05-2020,3.7,-0.43,119.84,10,29 km TimurLaut Donggala,Patahan Palu Koro
+03-05-2020,3.2,-0.34,120.48,10,90 km TimurLaut Palu,Patahan Palu Koro
+04-05-2020,2.5,-0.77,119.92,11,16 km TimurLaut Palu,Patahan Palu Koro
+05-05-2020,3.0,-2.28,121.37,10,6 km Tenggara Lembo,Patahan Matano
+06-05-2020,2.1,-2.80,119.51,10,24 km BaratLaut Pana,Patahan Saddang
+06-05-2020,2.2,-2.63,119.27,10,30 km TimurLaut Mambi,Patahan Saddang
+06-05-2020,2.9,-2.25,121.44,10,13 km TimurLaut Lembo,Patahan Matano
+06-05-2020,2.7,-1.19,120.58,10,72 km TimurLaut Kulawi,Patahan Palu Koro
+08-05-2020,3.1,-3.31,119.42,10,11 km TimurLaut Polewali,Patahan Saddang
+08-05-2020,4.0,-1.82,120.52,10,62 km BaratLaut Mangkutana,Patahan Matano
+08-05-2020,3.2,-1.25,120.80,10,93 km TimurLaut Kulawi,Patahan Palu Koro
+09-05-2020,3.0,-1.73,120.15,10,37 km Tenggara Kulawi,Patahan Palu Koro
+10-05-2020,4.4,-1.24,119.71,10,24 km BaratDaya Sigi,Patahan Palu Koro
+11-05-2020,3.1,-1.51,120.16,10,21 km Tenggara Kulawi,Patahan Palu Koro
+11-05-2020,2.9,-1.38,119.49,10,52 km BaratDaya Sigi,Patahan Palu Koro
+11-05-2020,2.8,-1.38,119.52,10,49 km BaratDaya Sigi,Patahan Palu Koro
+11-05-2020,2.7,-1.38,119.55,10,46 km BaratDaya Sigi,Patahan Palu Koro
+12-05-2020,2.5,-2.91,119.42,10,11 km TimurLaut Mamasa,Patahan Saddang
+14-05-2020,3.6,-3.74,123.28,10,72 km TimurLaut Konawe,Patahan Lawanopo
+16-05-2020,2.7,-3.28,120.28,10,57 km Tenggara Tana Toraja,Patahan Saddang
+17-05-2020,3.3,-2.23,119.10,10,74 km BaratLaut Mambi,Patahan Saddang
+18-05-2020,3.1,-0.89,120.18,10,31 km TimurLaut Palu,Patahan Palu Koro
+20-05-2020,3.5,-2.85,122.45,10,55 km Tenggara Kolono,Patahan Matano
+21-05-2020,2.6,-2.15,120.38,10,35 km BaratLaut Mangkutana,Patahan Matano
+21-05-2020,3.0,-2.10,120.46,10,34 km BaratLaut Mangkutana,Patahan Matano
+21-05-2020,4.3,-1.66,120.17,10,32 km Tenggara Kulawi,Patahan Palu Koro
+22-05-2020,3.8,-3.82,123.83,10,131 km TimurLaut Konawe,Patahan Lawanopo
+22-05-2020,3.3,-0.56,119.77,10,13 km TimurLaut Donggala,Patahan Palu Koro
+23-05-2020,2.5,-1.80,120.10,10,42 km Tenggara Kulawi,Patahan Palu Koro
+24-05-2020,2.3,-3.00,119.81,10,5 km BaratLaut Tana Toraja,Patahan Saddang
+24-05-2020,2.9,-2.15,120.42,10,32 km BaratLaut Mangkutana,Patahan Matano
+24-05-2020,3.0,-1.86,120.16,10,50 km Tenggara Kulawi,Patahan Palu Koro
+24-05-2020,2.6,-1.62,120.32,10,42 km Tenggara Kulawi,Patahan Palu Koro
+25-05-2020,3.4,-1.60,120.26,10,35 km Tenggara Kulawi,Patahan Palu Koro
+28-05-2020,3.0,-1.73,120.14,10,36 km Tenggara Kulawi,Patahan Palu Koro
+29-05-2020,2.8,-1.53,120.19,10,25 km Tenggara Kulawi,Patahan Palu Koro
+30-05-2020,2.9,-5.40,120.84,10,72 km Tenggara Barru,Patahan Walanae
+30-05-2020,2.8,-3.54,120.75,10,78 km BaratDaya Tolala,Patahan Lawanopo
+30-05-2020,3.2,-2.52,118.92,10,52 km BaratLaut Mambi,Patahan Saddang
+30-05-2020,3.5,-1.76,121.47,10,58 km TimurLaut Lembo,Patahan Matano
+31-05-2020,2.6,-2.30,120.59,10,8 km BaratLaut Mangkutana,Patahan Matano
+01-06-2020,3.7,-1.72,120.14,10,35 km Tenggara Kulawi,Patahan Palu Koro
+01-06-2020,4.2,-1.71,120.14,10,34 km Tenggara Kulawi,Patahan Palu Koro
+02-06-2020,2.5,-2.89,119.43,10,13 km TimurLaut Mamasa,Patahan Saddang
+02-06-2020,3.4,-1.24,120.85,10,99 km TimurLaut Kulawi,Patahan Palu Koro
+02-06-2020,3.2,-0.96,119.92,10,5 km Tenggara Palu,Patahan Palu Koro
+03-06-2020,3.0,-0.99,119.81,10,13 km BaratDaya Palu,Patahan Palu Koro
+04-06-2020,3.0,-1.73,120.11,10,35 km Tenggara Kulawi,Patahan Palu Koro
+05-06-2020,2.4,-1.46,120.50,10,57 km Tenggara Kulawi,Patahan Palu Koro
+06-06-2020,2.9,-2.05,120.52,10,37 km BaratLaut Mangkutana,Patahan Matano
+06-06-2020,2.5,-2.03,120.52,10,39 km BaratLaut Mangkutana,Patahan Matano
+06-06-2020,3.9,-1.32,120.48,10,57 km TimurLaut Kulawi,Patahan Palu Koro
+06-06-2020,2.0,-1.20,120.53,16,66 km TimurLaut Kulawi,Patahan Palu Koro
+08-06-2020,2.4,-2.20,119.04,10,79 km BaratLaut Mambi,Patahan Saddang
+08-06-2020,3.0,-1.71,120.32,10,48 km Tenggara Kulawi,Patahan Palu Koro
+08-06-2020,3.2,-1.57,120.14,10,22 km Tenggara Kulawi,Patahan Palu Koro
+10-06-2020,2.2,-2.93,119.36,10,6 km TimurLaut Mamasa,Patahan Saddang
+10-06-2020,2.2,-1.37,120.10,10,15 km TimurLaut Kulawi,Patahan Palu Koro
+11-06-2020,3.4,-2.93,119.33,10,6 km BaratLaut Mamasa,Patahan Saddang
+11-06-2020,3.3,-1.36,120.49,10,57 km TimurLaut Kulawi,Patahan Palu Koro
+11-06-2020,4.0,-1.34,120.49,10,57 km TimurLaut Kulawi,Patahan Palu Koro
+11-06-2020,3.7,-1.32,120.49,10,58 km TimurLaut Kulawi,Patahan Palu Koro
+12-06-2020,2.5,-2.57,120.71,10,25 km Tenggara Mangkutana,Patahan Matano
+12-06-2020,2.6,-1.64,120.85,10,86 km TimurLaut Mangkutana,Patahan Matano
+13-06-2020,4.4,-2.51,120.74,10,22 km Tenggara Mangkutana,Patahan Matano
+13-06-2020,2.4,-1.55,119.92,10,14 km BaratDaya Kulawi,Patahan Palu Koro
+13-06-2020,4.0,-1.32,120.11,10,20 km TimurLaut Kulawi,Patahan Palu Koro
+14-06-2020,2.1,-1.23,120.60,10,72 km TimurLaut Kulawi,Patahan Palu Koro
+15-06-2020,3.4,-1.66,120.15,10,30 km Tenggara Kulawi,Patahan Palu Koro
+15-06-2020,2.6,-1.31,120.49,10,58 km TimurLaut Kulawi,Patahan Palu Koro
+16-06-2020,2.4,-4.59,121.02,11,79 km Tenggara Watampone,Patahan Walanae
+16-06-2020,3.7,-2.79,122.11,10,19 km Tenggara Kolono,Patahan Matano
+16-06-2020,3.6,-2.79,122.14,10,21 km Tenggara Kolono,Patahan Matano
+16-06-2020,3.5,-2.79,122.15,10,22 km Tenggara Kolono,Patahan Matano
+16-06-2020,4.2,-2.78,122.08,10,15 km Tenggara Kolono,Patahan Matano
+16-06-2020,3.1,-2.78,122.14,10,21 km Tenggara Kolono,Patahan Matano
+16-06-2020,4.9,-2.76,122.17,10,22 km Tenggara Kolono,Patahan Matano
+16-06-2020,3.9,-2.75,122.14,10,19 km Tenggara Kolono,Patahan Matano
+16-06-2020,3.1,-2.42,122.22,17,39 km TimurLaut Kolono,Patahan Matano
+16-06-2020,2.7,-1.72,120.10,10,33 km Tenggara Kulawi,Patahan Palu Koro
+17-06-2020,3.6,-2.82,122.20,10,29 km Tenggara Kolono,Patahan Matano
+17-06-2020,4.8,-2.75,122.18,22,23 km Tenggara Kolono,Patahan Matano
+17-06-2020,3.6,-2.71,122.11,10,14 km Tenggara Kolono,Patahan Matano
+17-06-2020,2.3,-1.33,120.47,10,56 km TimurLaut Kulawi,Patahan Palu Koro
+17-06-2020,2.9,-1.33,120.52,10,61 km TimurLaut Kulawi,Patahan Palu Koro
+18-06-2020,2.9,-2.86,122.02,33,21 km Tenggara Kolono,Patahan Matano
+19-06-2020,2.4,-1.38,120.50,10,58 km TimurLaut Kulawi,Patahan Palu Koro
+19-06-2020,2.3,-0.97,120.29,15,43 km Tenggara Palu,Patahan Palu Koro
+19-06-2020,2.1,-0.88,119.87,10,6 km BaratLaut Palu,Patahan Palu Koro
+19-06-2020,2.8,-0.16,119.83,10,57 km TimurLaut Donggala,Patahan Palu Koro
+20-06-2020,3.4,-2.25,121.09,10,26 km BaratLaut Lembo,Patahan Matano
+20-06-2020,3.2,-1.73,120.29,10,47 km Tenggara Kulawi,Patahan Palu Koro
+21-06-2020,3.4,-3.39,122.07,10,8 km TimurLaut Konawe Utara,Patahan Lawanopo
+22-06-2020,2.4,-2.89,119.40,10,11 km TimurLaut Mamasa,Patahan Saddang
+22-06-2020,3.1,-2.44,121.22,10,23 km BaratDaya Lembo,Patahan Matano
+22-06-2020,2.4,-1.79,120.22,10,47 km Tenggara Kulawi,Patahan Palu Koro
+23-06-2020,3.7,-3.96,122.87,10,25 km Tenggara Konawe,Patahan Lawanopo
+23-06-2020,4.1,-1.67,120.11,10,29 km Tenggara Kulawi,Patahan Palu Koro
+24-06-2020,3.4,-3.40,122.09,10,8 km TimurLaut Asera,Patahan Lawanopo
+25-06-2020,3.3,-3.44,121.99,10,3 km BaratDaya Konawe Utara,Patahan Lawanopo
+25-06-2020,3.3,-3.41,121.99,10,1 km BaratLaut Konawe Utara,Patahan Lawanopo
+26-06-2020,3.6,-4.89,118.27,17,138 km BaratLaut Takalar,Patahan Walanae
+26-06-2020,2.8,-2.93,119.37,10,6 km TimurLaut Mamasa,Patahan Saddang
+26-06-2020,3.0,-2.22,120.81,10,29 km TimurLaut Mangkutana,Patahan Matano
+27-06-2020,4.2,-3.41,122.06,10,7 km TimurLaut Konawe Utara,Patahan Lawanopo
+27-06-2020,3.9,-2.29,121.05,10,30 km BaratDaya Lembo,Patahan Matano
+27-06-2020,2.5,-2.05,121.08,10,35 km BaratLaut Lembo,Patahan Matano
+27-06-2020,3.5,-1.34,120.49,10,57 km TimurLaut Kulawi,Patahan Palu Koro
+27-06-2020,3.4,-1.27,119.91,10,7 km BaratDaya Sigi,Patahan Palu Koro
+28-06-2020,2.6,-2.74,121.64,18,30 km Tenggara Nuha,Patahan Matano
+28-06-2020,2.6,-2.29,120.84,10,28 km TimurLaut Mangkutana,Patahan Matano
+28-06-2020,2.9,-2.28,121.03,10,32 km BaratDaya Lembo,Patahan Matano
+28-06-2020,2.5,-1.73,120.48,10,64 km Tenggara Kulawi,Patahan Palu Koro
+28-06-2020,2.9,-1.68,120.60,21,73 km Tenggara Kulawi,Patahan Palu Koro
+28-06-2020,2.8,-1.23,120.69,10,82 km TimurLaut Kulawi,Patahan Palu Koro
+29-06-2020,3.0,-2.57,118.98,10,43 km BaratLaut Mambi,Patahan Saddang
+29-06-2020,3.3,-2.47,118.82,10,63 km BaratLaut Mambi,Patahan Saddang
+29-06-2020,2.3,-2.47,118.92,10,56 km BaratLaut Mambi,Patahan Saddang
+29-06-2020,2.7,-2.47,118.98,10,53 km BaratLaut Mambi,Patahan Saddang
+29-06-2020,2.5,-2.46,118.78,10,67 km BaratLaut Mambi,Patahan Saddang
+29-06-2020,3.3,-2.30,121.75,10,16 km BaratLaut Morowali,Patahan Matano
+30-06-2020,2.9,-2.59,121.18,10,19 km BaratLaut Malili,Patahan Matano
+30-06-2020,2.9,-2.53,121.80,10,11 km Tenggara Morowali,Patahan Matano
+30-06-2020,2.8,-1.54,120.13,10,19 km Tenggara Kulawi,Patahan Palu Koro
+01-07-2020,2.0,-1.33,120.50,10,59 km TimurLaut Kulawi,Patahan Palu Koro
+02-07-2020,2.2,-1.51,120.17,10,22 km Tenggara Kulawi,Patahan Palu Koro
+04-07-2020,2.5,-2.89,119.43,10,13 km TimurLaut Mamasa,Patahan Saddang
+04-07-2020,2.2,-2.63,120.95,11,33 km BaratLaut Malili,Patahan Matano
+04-07-2020,2.8,-1.37,120.36,10,43 km TimurLaut Kulawi,Patahan Palu Koro
+04-07-2020,2.9,-1.37,120.44,10,51 km TimurLaut Kulawi,Patahan Palu Koro
+05-07-2020,3.6,-1.13,119.89,10,10 km BaratLaut Sigi,Patahan Palu Koro
+06-07-2020,3.3,-1.25,120.47,10,58 km TimurLaut Kulawi,Patahan Palu Koro
+06-07-2020,2.3,-1.14,119.94,10,8 km TimurLaut Sigi,Patahan Palu Koro
+07-07-2020,3.1,-2.54,121.21,10,24 km BaratLaut Nuha,Patahan Matano
+07-07-2020,3.0,-2.36,121.44,10,17 km Tenggara Lembo,Patahan Matano
+07-07-2020,2.9,-1.60,120.12,11,23 km Tenggara Kulawi,Patahan Palu Koro
+07-07-2020,4.0,-0.56,119.82,10,15 km TimurLaut Donggala,Patahan Palu Koro
+10-07-2020,3.6,-1.38,121.13,10,100 km BaratLaut Lembo,Patahan Matano
+12-07-2020,3.0,-2.84,119.46,10,20 km TimurLaut Mamasa,Patahan Saddang
+13-07-2020,3.2,-2.48,121.17,10,30 km BaratDaya Lembo,Patahan Matano
+13-07-2020,1.7,-1.23,120.49,10,61 km TimurLaut Kulawi,Patahan Palu Koro
+14-07-2020,1.9,-1.23,119.72,11,23 km BaratDaya Sigi,Patahan Palu Koro
+15-07-2020,5.8,-7.32,120.44,607,131 km BaratDaya Selayar,Patahan Walanae
+16-07-2020,2.5,-2.41,120.85,10,28 km Tenggara Mangkutana,Patahan Matano
+17-07-2020,3.8,-3.32,122.01,10,11 km TimurLaut Konawe Utara,Patahan Lawanopo
+17-07-2020,2.8,-2.79,122.17,10,24 km Tenggara Kolono,Patahan Matano
+17-07-2020,2.6,-2.21,120.55,10,19 km BaratLaut Mangkutana,Patahan Matano
+17-07-2020,2.9,-1.63,120.29,10,40 km Tenggara Kulawi,Patahan Palu Koro
+17-07-2020,2.5,-1.59,120.18,10,27 km Tenggara Kulawi,Patahan Palu Koro
+17-07-2020,3.0,-1.18,121.15,10,121 km BaratLaut Lembo,Patahan Matano
+19-07-2020,3.6,-2.41,122.91,10,107 km TimurLaut Kolono,Patahan Matano
+19-07-2020,3.0,-1.39,120.39,10,46 km TimurLaut Kulawi,Patahan Palu Koro
+19-07-2020,3.1,-0.16,119.90,10,59 km TimurLaut Donggala,Patahan Palu Koro
+20-07-2020,2.6,-1.73,120.49,10,65 km Tenggara Kulawi,Patahan Palu Koro
+20-07-2020,2.4,-1.69,120.44,10,58 km Tenggara Kulawi,Patahan Palu Koro
+21-07-2020,3.1,-3.34,122.00,10,9 km BaratLaut Konawe Utara,Patahan Lawanopo
+22-07-2020,2.4,-2.89,119.36,10,10 km TimurLaut Mamasa,Patahan Saddang
+22-07-2020,2.5,-2.42,121.02,10,38 km BaratDaya Lembo,Patahan Matano
+22-07-2020,2.5,-0.96,119.92,10,5 km Tenggara Palu,Patahan Palu Koro
+23-07-2020,2.4,-2.55,121.29,10,15 km BaratLaut Nuha,Patahan Matano
+23-07-2020,2.6,-2.55,121.37,10,7 km BaratLaut Nuha,Patahan Matano
+23-07-2020,2.5,-2.54,121.18,10,25 km BaratLaut Malili,Patahan Matano
+23-07-2020,2.8,-2.54,121.40,10,6 km BaratLaut Nuha,Patahan Matano
+23-07-2020,2.5,-2.53,121.38,10,8 km BaratLaut Nuha,Patahan Matano
+23-07-2020,3.3,-2.53,121.44,10,7 km TimurLaut Nuha,Patahan Matano
+23-07-2020,3.2,-2.52,121.19,10,27 km BaratLaut Nuha,Patahan Matano
+23-07-2020,3.7,-2.49,121.36,10,13 km BaratLaut Nuha,Patahan Matano
+23-07-2020,3.6,-2.48,121.45,10,13 km TimurLaut Nuha,Patahan Matano
+23-07-2020,3.1,-2.47,121.46,10,14 km TimurLaut Nuha,Patahan Matano
+23-07-2020,4.2,-2.44,121.18,10,25 km BaratDaya Lembo,Patahan Matano
+23-07-2020,2.7,-2.28,120.59,12,10 km BaratLaut Mangkutana,Patahan Matano
+23-07-2020,2.6,-1.57,120.48,10,57 km Tenggara Kulawi,Patahan Palu Koro
+24-07-2020,2.6,-1.46,120.12,10,15 km Tenggara Kulawi,Patahan Palu Koro
+24-07-2020,3.5,-0.83,120.40,17,56 km TimurLaut Palu,Patahan Palu Koro
+26-07-2020,3.0,-2.52,121.37,10,10 km BaratLaut Nuha,Patahan Matano
+26-07-2020,4.0,-2.23,120.70,10,19 km TimurLaut Mangkutana,Patahan Matano
+27-07-2020,2.9,-2.59,121.33,10,10 km BaratLaut Nuha,Patahan Matano
+27-07-2020,3.5,-1.24,120.43,10,55 km TimurLaut Kulawi,Patahan Palu Koro
+28-07-2020,3.1,-2.07,118.76,14,103 km BaratLaut Mambi,Patahan Saddang
+28-07-2020,3.3,-1.70,120.14,10,33 km Tenggara Kulawi,Patahan Palu Koro
+29-07-2020,4.8,-5.90,120.43,379,27 km BaratLaut Selayar,Patahan Walanae
+29-07-2020,2.7,-2.26,120.70,10,17 km TimurLaut Mangkutana,Patahan Matano
+29-07-2020,4.0,-2.04,122.41,10,85 km TimurLaut Kolono,Patahan Matano
+30-07-2020,3.2,-1.09,120.29,10,43 km TimurLaut Sigi,Patahan Palu Koro
+30-07-2020,3.3,-1.02,120.70,10,89 km TimurLaut Sigi,Patahan Palu Koro
+31-07-2020,2.2,-2.35,120.69,10,10 km TimurLaut Mangkutana,Patahan Matano
+31-07-2020,3.1,-1.67,120.35,10,48 km Tenggara Kulawi,Patahan Palu Koro
+03-08-2020,2.6,-1.08,120.61,55,77 km TimurLaut Sigi,Patahan Palu Koro
+04-08-2020,2.0,-2.72,120.70,19,40 km Tenggara Mangkutana,Patahan Matano
+04-08-2020,2.5,-1.56,120.17,23,24 km Tenggara Kulawi,Patahan Palu Koro
+05-08-2020,2.4,-2.60,121.42,10,1 km BaratLaut Nuha,Patahan Matano
+05-08-2020,3.0,-2.59,121.08,10,24 km BaratLaut Malili,Patahan Matano
+05-08-2020,2.3,-1.33,120.73,10,84 km TimurLaut Kulawi,Patahan Palu Koro
+06-08-2020,2.6,-2.08,119.41,10,93 km TimurLaut Mambi,Patahan Saddang
+06-08-2020,2.0,-1.62,120.18,12,29 km Tenggara Kulawi,Patahan Palu Koro
+06-08-2020,2.2,-1.41,120.44,12,51 km TimurLaut Kulawi,Patahan Palu Koro
+06-08-2020,2.1,-1.37,120.32,10,38 km TimurLaut Kulawi,Patahan Palu Koro
+06-08-2020,3.0,-1.29,120.30,10,39 km TimurLaut Kulawi,Patahan Palu Koro
+06-08-2020,3.2,-1.29,120.31,10,40 km TimurLaut Kulawi,Patahan Palu Koro
+06-08-2020,3.1,-1.28,120.32,10,42 km TimurLaut Kulawi,Patahan Palu Koro
+06-08-2020,3.1,-1.20,120.31,10,43 km TimurLaut Sigi,Patahan Palu Koro
+07-08-2020,2.7,-2.88,119.40,10,12 km TimurLaut Mamasa,Patahan Saddang
+07-08-2020,2.5,-2.83,121.78,10,28 km BaratDaya Kolono,Patahan Matano
+07-08-2020,3.8,-2.60,121.14,10,20 km BaratLaut Malili,Patahan Matano
+07-08-2020,3.0,-1.82,119.50,10,68 km BaratDaya Kulawi,Patahan Palu Koro
+08-08-2020,2.4,-3.01,122.27,10,49 km Tenggara Kolono,Patahan Matano
+08-08-2020,2.4,-2.10,121.69,13,38 km BaratLaut Morowali,Patahan Matano
+08-08-2020,3.1,-2.06,121.13,10,31 km BaratLaut Lembo,Patahan Matano
+08-08-2020,3.5,-0.25,119.77,10,46 km TimurLaut Donggala,Patahan Palu Koro
+10-08-2020,2.1,-2.98,119.37,10,2 km BaratLaut Mamasa,Patahan Saddang
+10-08-2020,2.4,-2.91,119.39,10,9 km TimurLaut Mamasa,Patahan Saddang
+11-08-2020,2.6,-2.91,119.33,10,8 km BaratLaut Mamasa,Patahan Saddang
+11-08-2020,2.9,-2.89,119.43,10,13 km TimurLaut Mamasa,Patahan Saddang
+11-08-2020,3.9,-2.63,121.19,10,15 km BaratLaut Malili,Patahan Matano
+12-08-2020,2.7,-2.51,121.14,10,29 km BaratLaut Malili,Patahan Matano
+12-08-2020,2.7,-1.37,120.47,10,55 km TimurLaut Kulawi,Patahan Palu Koro
+14-08-2020,4.7,-5.55,120.07,10,14 km BaratLaut Bulukumba,Patahan Walanae
+15-08-2020,1.9,-3.51,119.89,10,16 km TimurLaut Enrekang,Patahan Saddang
+15-08-2020,1.8,-2.71,120.93,10,30 km BaratLaut Tolala,Patahan Lawanopo
+15-08-2020,2.6,-0.83,119.84,66,12 km BaratLaut Palu,Patahan Palu Koro
+16-08-2020,2.7,-6.28,120.86,40,48 km Tenggara Selayar,Patahan Walanae
+16-08-2020,4.7,-2.85,119.22,149,5 km TimurLaut Mambi,Patahan Saddang
+16-08-2020,2.4,-1.33,120.78,10,89 km TimurLaut Kulawi,Patahan Palu Koro
+16-08-2020,1.9,-0.59,119.74,17,9 km TimurLaut Donggala,Patahan Palu Koro
+18-08-2020,1.4,-2.54,120.64,27,19 km Tenggara Mangkutana,Patahan Matano
+18-08-2020,2.4,-1.17,120.18,10,29 km TimurLaut Sigi,Patahan Palu Koro
+19-08-2020,2.8,-2.44,120.91,10,35 km Tenggara Mangkutana,Patahan Matano
+19-08-2020,2.7,-2.27,121.41,25,10 km Tenggara Lembo,Patahan Matano
+19-08-2020,2.2,-1.79,119.34,10,81 km BaratDaya Kulawi,Patahan Palu Koro
+19-08-2020,2.2,-1.50,120.46,91,53 km Tenggara Kulawi,Patahan Palu Koro
+19-08-2020,1.9,-1.32,119.93,10,12 km Tenggara Sigi,Patahan Palu Koro
+19-08-2020,2.2,-0.62,120.36,10,60 km TimurLaut Palu,Patahan Palu Koro
+20-08-2020,2.2,-1.25,120.17,10,28 km Tenggara Sigi,Patahan Palu Koro
+21-08-2020,2.8,-2.14,121.59,11,33 km TimurLaut Lembo,Patahan Matano
+21-08-2020,3.5,-2.12,121.13,10,26 km BaratLaut Lembo,Patahan Matano
+21-08-2020,2.6,-2.10,121.06,10,34 km BaratLaut Lembo,Patahan Matano
+21-08-2020,5.0,-1.49,120.02,10,7 km Tenggara Kulawi,Patahan Palu Koro
+22-08-2020,3.1,-2.37,120.57,10,3 km BaratLaut Mangkutana,Patahan Matano
+22-08-2020,2.4,-1.78,120.34,10,54 km Tenggara Kulawi,Patahan Palu Koro
+22-08-2020,2.7,-1.51,120.03,10,9 km Tenggara Kulawi,Patahan Palu Koro
+23-08-2020,3.2,-2.30,122.37,10,60 km TimurLaut Kolono,Patahan Matano
+23-08-2020,3.7,-1.79,120.61,10,64 km TimurLaut Mangkutana,Patahan Matano
+26-08-2020,2.6,-2.91,119.40,10,10 km TimurLaut Mamasa,Patahan Saddang
+27-08-2020,2.9,-1.79,120.23,10,47 km Tenggara Kulawi,Patahan Palu Koro
+27-08-2020,3.0,-1.63,120.47,10,58 km Tenggara Kulawi,Patahan Palu Koro
+28-08-2020,3.0,-2.93,119.47,11,11 km BaratLaut Pana,Patahan Saddang
+28-08-2020,2.3,-1.39,120.61,10,70 km TimurLaut Kulawi,Patahan Palu Koro
+29-08-2020,2.6,-1.27,119.76,10,19 km BaratDaya Sigi,Patahan Palu Koro
+31-08-2020,3.2,-2.90,119.36,10,9 km TimurLaut Mamasa,Patahan Saddang
+01-09-2020,2.2,-1.20,119.71,10,24 km BaratLaut Sigi,Patahan Palu Koro
+05-09-2020,2.9,-2.14,119.08,10,84 km BaratLaut Mambi,Patahan Saddang
+05-09-2020,2.8,-1.57,120.13,10,21 km Tenggara Kulawi,Patahan Palu Koro
+06-09-2020,4.4,-1.75,120.14,10,38 km Tenggara Kulawi,Patahan Palu Koro
+06-09-2020,2.9,-1.61,120.20,10,30 km Tenggara Kulawi,Patahan Palu Koro
+06-09-2020,3.2,-1.56,120.58,10,68 km Tenggara Kulawi,Patahan Palu Koro
+08-09-2020,2.5,-1.65,120.21,10,34 km Tenggara Kulawi,Patahan Palu Koro
+09-09-2020,2.7,-2.52,121.28,10,17 km BaratLaut Nuha,Patahan Matano
+09-09-2020,2.1,-1.69,120.12,13,31 km Tenggara Kulawi,Patahan Palu Koro
+11-09-2020,2.8,-3.78,119.27,10,41 km Tenggara Majene,Patahan Saddang
+11-09-2020,2.1,-2.70,121.24,20,7 km TimurLaut Malili,Patahan Matano
+11-09-2020,2.6,-2.56,121.31,10,13 km BaratLaut Nuha,Patahan Matano
+11-09-2020,3.1,-2.50,121.27,10,19 km BaratLaut Nuha,Patahan Matano
+11-09-2020,2.9,-2.39,121.04,10,34 km BaratDaya Lembo,Patahan Matano
+11-09-2020,4.7,-2.07,119.28,10,91 km TimurLaut Mambi,Patahan Saddang
+12-09-2020,2.0,-4.03,120.16,10,23 km Tenggara Belawa,Patahan Walanae
+12-09-2020,2.4,-1.28,119.88,40,9 km BaratDaya Sigi,Patahan Palu Koro
+12-09-2020,2.2,-1.28,120.44,10,54 km TimurLaut Kulawi,Patahan Palu Koro
+14-09-2020,2.4,-1.81,120.43,10,64 km Tenggara Kulawi,Patahan Palu Koro
+15-09-2020,2.5,-2.47,120.76,10,21 km Tenggara Mangkutana,Patahan Matano
+16-09-2020,1.8,-4.96,119.69,10,38 km TimurLaut Gowa,Patahan Walanae
+16-09-2020,1.9,-2.46,121.20,10,26 km BaratDaya Lembo,Patahan Matano
+16-09-2020,2.8,-1.96,120.28,10,58 km BaratLaut Mangkutana,Patahan Matano
+17-09-2020,2.4,-2.65,121.67,10,25 km BaratDaya Morowali,Patahan Matano
+17-09-2020,2.6,-1.81,120.58,18,62 km BaratLaut Mangkutana,Patahan Matano
+17-09-2020,3.2,-1.68,120.17,10,33 km Tenggara Kulawi,Patahan Palu Koro
+18-09-2020,3.2,-1.35,120.03,10,12 km TimurLaut Kulawi,Patahan Palu Koro
+20-09-2020,2.9,-2.14,119.25,10,83 km TimurLaut Mambi,Patahan Saddang
+21-09-2020,4.9,-2.66,121.20,10,11 km BaratLaut Malili,Patahan Matano
+21-09-2020,2.1,-2.25,120.75,10,21 km TimurLaut Mangkutana,Patahan Matano
+21-09-2020,3.8,-2.25,122.85,10,107 km TimurLaut Kolono,Patahan Matano
+21-09-2020,3.4,-2.16,120.73,10,27 km TimurLaut Mangkutana,Patahan Matano
+23-09-2020,3.2,-2.95,119.38,10,5 km TimurLaut Mamasa,Patahan Saddang
+23-09-2020,2.4,-2.93,119.37,10,6 km TimurLaut Mamasa,Patahan Saddang
+23-09-2020,3.4,-2.70,122.42,10,48 km Tenggara Kolono,Patahan Matano
+23-09-2020,2.2,-2.22,120.87,10,34 km TimurLaut Mangkutana,Patahan Matano
+24-09-2020,2.2,-2.94,119.36,10,5 km TimurLaut Mamasa,Patahan Saddang
+24-09-2020,3.2,-2.93,119.31,10,7 km BaratLaut Mamasa,Patahan Saddang
+24-09-2020,3.6,-2.91,119.36,10,8 km TimurLaut Mamasa,Patahan Saddang
+24-09-2020,2.5,-2.85,119.30,10,12 km TimurLaut Mambi,Patahan Saddang
+24-09-2020,2.0,-2.50,121.34,10,13 km BaratLaut Nuha,Patahan Matano
+25-09-2020,2.6,-2.93,119.35,10,6 km BaratLaut Mamasa,Patahan Saddang
+25-09-2020,2.9,-1.72,120.11,10,34 km Tenggara Kulawi,Patahan Palu Koro
+26-09-2020,2.4,-2.73,121.18,10,6 km BaratLaut Malili,Patahan Matano
+26-09-2020,2.9,-2.50,118.92,10,53 km BaratLaut Mambi,Patahan Saddang
+26-09-2020,2.4,-1.25,119.75,10,20 km BaratDaya Sigi,Patahan Palu Koro
+26-09-2020,2.7,-1.15,119.89,10,8 km BaratLaut Sigi,Patahan Palu Koro
+27-09-2020,2.6,-6.56,120.62,19,50 km Tenggara Selayar,Patahan Walanae
+27-09-2020,2.4,-2.56,120.87,20,37 km Tenggara Mangkutana,Patahan Matano
+27-09-2020,3.1,-1.85,120.45,10,60 km BaratLaut Mangkutana,Patahan Matano
+27-09-2020,2.4,-1.67,120.09,10,28 km Tenggara Kulawi,Patahan Palu Koro
+27-09-2020,2.8,-1.59,120.06,10,18 km Tenggara Kulawi,Patahan Palu Koro
+28-09-2020,3.3,-2.92,119.38,10,7 km TimurLaut Mamasa,Patahan Saddang
+02-10-2020,2.2,-2.45,120.74,10,18 km Tenggara Mangkutana,Patahan Matano
+03-10-2020,1.8,-3.17,119.63,10,21 km Tenggara Pana,Patahan Saddang
+03-10-2020,2.6,-3.11,119.35,10,11 km TimurLaut Sumarorong,Patahan Saddang
+03-10-2020,3.0,-2.89,119.42,10,13 km TimurLaut Mamasa,Patahan Saddang
+03-10-2020,2.0,-1.29,119.72,10,24 km BaratDaya Sigi,Patahan Palu Koro
+04-10-2020,2.6,-2.48,121.66,10,11 km BaratDaya Morowali,Patahan Matano
+05-10-2020,2.6,-2.16,119.09,10,82 km BaratLaut Mambi,Patahan Saddang
+06-10-2020,3.4,-2.31,120.75,10,18 km TimurLaut Mangkutana,Patahan Matano
+06-10-2020,3.0,-2.31,121.37,10,8 km Tenggara Lembo,Patahan Matano
+07-10-2020,3.2,-1.90,120.44,10,55 km BaratLaut Mangkutana,Patahan Matano
+07-10-2020,2.5,-0.91,119.82,10,9 km BaratLaut Palu,Patahan Palu Koro
+09-10-2020,2.6,-3.18,121.10,10,28 km Tenggara Tolala,Patahan Lawanopo
+09-10-2020,2.8,-2.17,119.16,10,80 km BaratLaut Mambi,Patahan Saddang
+09-10-2020,2.9,-1.40,120.42,10,49 km TimurLaut Kulawi,Patahan Palu Koro
+10-10-2020,3.2,-3.04,122.74,28,84 km TimurLaut Kendari,Patahan Lawanopo
+11-10-2020,2.6,-2.21,122.82,10,106 km TimurLaut Kolono,Patahan Matano
+11-10-2020,3.1,-1.57,120.15,10,23 km Tenggara Kulawi,Patahan Palu Koro
+12-10-2020,2.4,-2.46,120.85,10,29 km Tenggara Mangkutana,Patahan Matano
+14-10-2020,3.1,-2.84,119.71,10,26 km BaratLaut Tana Toraja,Patahan Saddang
+14-10-2020,3.6,-2.16,119.07,10,82 km BaratLaut Mambi,Patahan Saddang
+17-10-2020,3.4,-1.71,120.14,10,34 km Tenggara Kulawi,Patahan Palu Koro
+19-10-2020,2.4,-2.62,121.33,10,11 km BaratDaya Nuha,Patahan Matano
+20-10-2020,2.9,-2.88,119.43,10,14 km TimurLaut Mamasa,Patahan Saddang
+21-10-2020,3.1,-2.87,119.46,10,17 km TimurLaut Mamasa,Patahan Saddang
+21-10-2020,2.7,-1.33,119.96,10,13 km BaratLaut Kulawi,Patahan Palu Koro
+21-10-2020,2.9,-1.31,119.99,10,13 km Tenggara Sigi,Patahan Palu Koro
+21-10-2020,3.1,-1.31,120.00,10,14 km Tenggara Sigi,Patahan Palu Koro
+21-10-2020,2.9,-1.31,120.01,10,14 km Tenggara Sigi,Patahan Palu Koro
+21-10-2020,4.6,-1.29,119.98,10,11 km Tenggara Sigi,Patahan Palu Koro
+21-10-2020,3.4,-1.27,120.00,10,11 km Tenggara Sigi,Patahan Palu Koro
+22-10-2020,3.1,-2.56,121.32,10,12 km BaratLaut Nuha,Patahan Matano
+22-10-2020,4.1,-2.43,121.33,10,19 km Tenggara Lembo,Patahan Matano
+23-10-2020,2.6,-3.15,120.58,17,62 km BaratDaya Tolala,Patahan Lawanopo
+23-10-2020,1.8,-2.72,121.27,15,7 km TimurLaut Malili,Patahan Matano
+23-10-2020,2.4,-2.33,121.46,10,17 km Tenggara Lembo,Patahan Matano
+23-10-2020,2.9,-2.24,121.02,10,33 km BaratLaut Lembo,Patahan Matano
+23-10-2020,2.2,-2.20,120.98,12,38 km BaratLaut Lembo,Patahan Matano
+23-10-2020,4.3,-2.16,121.04,10,33 km BaratLaut Lembo,Patahan Matano
+24-10-2020,3.5,-2.53,121.32,10,13 km BaratLaut Nuha,Patahan Matano
+24-10-2020,3.3,-2.25,120.99,10,37 km BaratLaut Lembo,Patahan Matano
+25-10-2020,3.4,-3.37,123.23,10,87 km TimurLaut Konawe,Patahan Lawanopo
+25-10-2020,2.6,-2.27,120.98,10,38 km BaratDaya Lembo,Patahan Matano
+25-10-2020,3.4,-2.13,121.20,10,20 km BaratLaut Lembo,Patahan Matano
+25-10-2020,3.6,-0.77,119.83,10,16 km Tenggara Donggala,Patahan Palu Koro
+26-10-2020,2.6,-2.62,121.59,10,19 km Tenggara Nuha,Patahan Matano
+26-10-2020,2.4,-2.46,121.22,10,25 km BaratDaya Lembo,Patahan Matano
+26-10-2020,3.3,-1.38,120.42,10,49 km TimurLaut Kulawi,Patahan Palu Koro
+27-10-2020,2.3,-2.67,121.06,10,20 km BaratLaut Malili,Patahan Matano
+27-10-2020,2.3,-2.65,119.20,10,27 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.1,-3.29,121.86,10,17 km TimurLaut Kec. Asera,Patahan Lawanopo
+28-10-2020,2.8,-2.69,122.73,11,83 km Tenggara Kolono,Patahan Matano
+28-10-2020,2.3,-2.61,118.81,59,53 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.3,-2.42,118.97,10,58 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.9,-2.36,119.11,10,60 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.6,-2.34,118.92,10,69 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.6,-2.34,119.09,10,62 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.7,-2.34,119.11,10,62 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.0,-2.34,119.14,10,61 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.0,-2.33,119.31,11,63 km TimurLaut Mambi,Patahan Saddang
+28-10-2020,2.5,-2.32,119.08,10,65 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.6,-2.32,119.19,10,63 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.3,-2.31,119.05,10,66 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.8,-2.31,119.11,10,65 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.5,-2.31,119.13,10,65 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,4.8,-2.30,119.05,10,68 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.3,-2.30,119.11,10,66 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.2,-2.30,119.12,10,66 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.5,-2.30,119.15,10,66 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.8,-2.30,119.16,10,66 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.5,-2.29,119.04,10,69 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,4.6,-2.29,119.08,10,68 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.8,-2.29,119.14,13,67 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.5,-2.28,119.04,10,70 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,2.8,-2.28,119.09,10,69 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,3.9,-2.27,119.02,10,72 km BaratLaut Mambi,Patahan Saddang
+28-10-2020,5.5,-2.23,119.29,10,74 km TimurLaut Mambi,Patahan Saddang
+28-10-2020,3.3,-1.20,119.57,10,39 km BaratLaut Sigi,Patahan Palu Koro
+28-10-2020,2.8,-1.02,120.69,10,88 km TimurLaut Sigi,Patahan Palu Koro
+29-10-2020,2.7,-2.37,119.13,10,58 km BaratLaut Mambi,Patahan Saddang
+29-10-2020,3.0,-2.33,119.13,10,63 km BaratLaut Mambi,Patahan Saddang
+29-10-2020,3.7,-2.24,119.11,10,73 km BaratLaut Mambi,Patahan Saddang
+30-10-2020,2.6,-2.30,119.11,10,66 km BaratLaut Mambi,Patahan Saddang
+30-10-2020,3.2,-2.28,119.10,10,69 km BaratLaut Mambi,Patahan Saddang
+30-10-2020,4.3,-2.27,119.09,10,70 km BaratLaut Mambi,Patahan Saddang
+30-10-2020,3.5,-2.27,119.11,10,70 km BaratLaut Mambi,Patahan Saddang
+30-10-2020,4.3,-2.27,119.11,10,70 km BaratLaut Mambi,Patahan Saddang
+30-10-2020,2.9,-2.27,119.14,10,69 km BaratLaut Mambi,Patahan Saddang
+30-10-2020,4.5,-1.25,119.96,10,6 km Tenggara Sigi,Patahan Palu Koro
+31-10-2020,2.7,-2.59,119.74,10,51 km BaratLaut Tana Toraja,Patahan Saddang
+31-10-2020,2.8,-2.27,119.10,10,70 km BaratLaut Mambi,Patahan Saddang
+31-10-2020,3.1,-1.42,121.09,10,97 km BaratLaut Lembo,Patahan Matano
+31-10-2020,2.6,-1.32,120.02,10,14 km TimurLaut Kulawi,Patahan Palu Koro
+01-11-2020,2.3,-2.27,119.06,12,71 km BaratLaut Mambi,Patahan Saddang
+01-11-2020,3.2,-1.49,120.15,10,19 km Tenggara Kulawi,Patahan Palu Koro
+02-11-2020,2.5,-2.30,119.07,10,67 km BaratLaut Mambi,Patahan Saddang
+02-11-2020,3.7,-2.25,119.08,10,72 km BaratLaut Mambi,Patahan Saddang
+02-11-2020,2.9,-1.99,119.36,10,92 km BaratDaya Kulawi,Patahan Palu Koro
+02-11-2020,2.4,-1.30,120.01,10,14 km Tenggara Sigi,Patahan Palu Koro
+03-11-2020,4.4,-2.82,122.28,10,36 km Tenggara Kolono,Patahan Matano
+03-11-2020,2.3,-2.37,120.78,10,20 km BaratLaut Mangkutana,Patahan Matano
+03-11-2020,3.0,-2.35,119.06,10,62 km BaratLaut Mambi,Patahan Saddang
+03-11-2020,2.4,-2.30,119.12,10,66 km BaratLaut Mambi,Patahan Saddang
+03-11-2020,2.1,-2.28,119.10,10,69 km BaratLaut Mambi,Patahan Saddang
+04-11-2020,2.8,-3.01,121.85,10,40 km BaratDaya Kolono,Patahan Matano
+04-11-2020,3.1,-2.33,119.13,10,63 km BaratLaut Mambi,Patahan Saddang
+04-11-2020,2.2,-1.06,119.88,55,16 km BaratDaya Palu,Patahan Palu Koro
+05-11-2020,3.1,-2.47,121.32,10,17 km BaratLaut Nuha,Patahan Matano
+07-11-2020,3.0,-2.50,121.49,10,13 km TimurLaut Nuha,Patahan Matano
+07-11-2020,2.7,-2.34,119.11,10,62 km BaratLaut Mambi,Patahan Saddang
+07-11-2020,3.8,-2.03,119.34,10,97 km BaratDaya Kulawi,Patahan Palu Koro
+07-11-2020,4.8,-1.98,119.33,10,94 km BaratDaya Kulawi,Patahan Palu Koro
+08-11-2020,2.8,-2.77,122.07,10,14 km Tenggara Kolono,Patahan Matano
+08-11-2020,1.8,-2.74,122.10,10,15 km Tenggara Kolono,Patahan Matano
+08-11-2020,2.5,-2.29,121.00,10,36 km BaratDaya Lembo,Patahan Matano
+09-11-2020,3.1,-2.69,121.90,10,10 km BaratDaya Kolono,Patahan Matano
+09-11-2020,2.6,-2.47,121.26,10,22 km BaratLaut Nuha,Patahan Matano
+09-11-2020,3.6,-2.32,119.14,10,64 km BaratLaut Mambi,Patahan Saddang
+09-11-2020,2.8,-2.28,119.14,10,68 km BaratLaut Mambi,Patahan Saddang
+09-11-2020,3.0,-2.25,118.74,59,87 km BaratLaut Mambi,Patahan Saddang
+09-11-2020,4.6,-2.25,119.05,10,73 km BaratLaut Mambi,Patahan Saddang
+09-11-2020,3.3,-2.24,118.76,23,87 km BaratLaut Mambi,Patahan Saddang
+10-11-2020,2.8,-2.26,121.70,10,21 km BaratLaut Morowali,Patahan Matano
+11-11-2020,3.6,-2.29,119.05,10,69 km BaratLaut Mambi,Patahan Saddang
+11-11-2020,3.7,-2.27,119.10,10,70 km BaratLaut Mambi,Patahan Saddang
+11-11-2020,2.3,-1.31,120.01,10,14 km Tenggara Sigi,Patahan Palu Koro
+12-11-2020,4.0,-2.85,122.19,10,30 km Tenggara Kolono,Patahan Matano
+12-11-2020,2.9,-2.31,119.14,10,65 km BaratLaut Mambi,Patahan Saddang
+13-11-2020,2.6,-4.33,120.16,16,28 km BaratLaut Watampone,Patahan Walanae
+13-11-2020,3.1,-2.36,119.11,10,60 km BaratLaut Mambi,Patahan Saddang
+14-11-2020,2.5,-2.21,120.82,11,30 km TimurLaut Mangkutana,Patahan Matano
+14-11-2020,2.6,-0.58,119.76,10,10 km TimurLaut Donggala,Patahan Palu Koro
+15-11-2020,4.1,-4.76,118.32,29,137 km BaratLaut Gowa,Patahan Walanae
+16-11-2020,2.3,-2.37,121.03,10,34 km BaratDaya Lembo,Patahan Matano
+17-11-2020,2.4,-2.95,119.37,10,4 km TimurLaut Mamasa,Patahan Saddang
+17-11-2020,2.5,-1.98,120.36,10,51 km BaratLaut Mangkutana,Patahan Matano
+18-11-2020,3.3,-2.26,119.13,10,70 km BaratLaut Mambi,Patahan Saddang
+19-11-2020,2.4,-2.91,119.43,10,12 km TimurLaut Mamasa,Patahan Saddang
+19-11-2020,2.4,-2.12,119.11,10,86 km BaratLaut Mambi,Patahan Saddang
+20-11-2020,3.2,-4.54,119.96,11,39 km BaratDaya Watampone,Patahan Walanae
+20-11-2020,2.8,-2.45,121.97,56,24 km Tenggara Morowali,Patahan Matano
+21-11-2020,2.1,-2.96,119.49,21,7 km BaratLaut Pana,Patahan Saddang
+22-11-2020,2.6,-2.43,119.20,10,51 km BaratLaut Mambi,Patahan Saddang
+23-11-2020,3.9,-1.18,119.86,10,8 km BaratLaut Sigi,Patahan Palu Koro
+24-11-2020,3.1,-2.50,121.60,10,18 km BaratDaya Morowali,Patahan Matano
+25-11-2020,2.2,-2.57,119.31,29,38 km TimurLaut Mambi,Patahan Saddang
+26-11-2020,2.4,-1.64,120.27,10,39 km Tenggara Kulawi,Patahan Palu Koro
+27-11-2020,2.2,-2.81,119.43,10,21 km TimurLaut Mamasa,Patahan Saddang
+27-11-2020,2.9,-1.65,120.19,10,32 km Tenggara Kulawi,Patahan Palu Koro
+27-11-2020,3.3,-1.63,120.28,10,39 km Tenggara Kulawi,Patahan Palu Koro
+27-11-2020,5.5,-0.27,120.92,10,134 km TimurLaut Palu,Patahan Palu Koro
+28-11-2020,6.0,-7.32,120.26,20,133 km BaratDaya Selayar,Patahan Walanae
+28-11-2020,2.1,-2.61,120.78,10,33 km Tenggara Mangkutana,Patahan Matano
+28-11-2020,2.7,-2.29,119.03,10,69 km BaratLaut Mambi,Patahan Saddang
+29-11-2020,1.9,-2.60,120.57,17,26 km BaratDaya Mangkutana,Patahan Matano
+29-11-2020,4.5,-2.30,122.19,10,48 km TimurLaut Kolono,Patahan Matano
+29-11-2020,2.3,-2.26,120.59,10,12 km BaratLaut Mangkutana,Patahan Matano
+30-11-2020,2.8,-2.62,120.90,10,39 km BaratLaut Malili,Patahan Matano
+30-11-2020,2.3,-1.35,119.81,10,20 km BaratDaya Sigi,Patahan Palu Koro
+01-12-2020,3.4,-5.68,120.66,10,53 km Tenggara Bulukumba,Patahan Walanae
+01-12-2020,3.1,-2.33,119.10,10,63 km BaratLaut Mambi,Patahan Saddang
+01-12-2020,2.8,-2.29,119.08,10,68 km BaratLaut Mambi,Patahan Saddang
+01-12-2020,3.1,-2.29,119.24,10,67 km TimurLaut Mambi,Patahan Saddang
+01-12-2020,3.1,-2.25,119.20,10,71 km BaratLaut Mambi,Patahan Saddang
+02-12-2020,2.0,-5.99,119.97,10,55 km BaratDaya Bulukumba,Patahan Walanae
+02-12-2020,3.3,-5.87,120.19,10,36 km BaratDaya Bulukumba,Patahan Walanae
+02-12-2020,4.7,-5.71,120.66,10,53 km TimurLaut Selayar,Patahan Walanae
+02-12-2020,2.9,-5.70,120.52,10,39 km Tenggara Bulukumba,Patahan Walanae
+02-12-2020,2.2,-5.61,120.78,10,65 km Tenggara Bulukumba,Patahan Walanae
+02-12-2020,3.4,-2.63,121.67,10,23 km BaratDaya Morowali,Patahan Matano
+02-12-2020,2.2,-2.41,120.60,10,4 km BaratLaut Mangkutana,Patahan Matano
+02-12-2020,2.1,-2.29,119.08,10,68 km BaratLaut Mambi,Patahan Saddang
+02-12-2020,2.9,-1.33,120.40,10,48 km TimurLaut Kulawi,Patahan Palu Koro
+03-12-2020,3.4,-3.42,123.27,10,87 km TimurLaut Konawe,Patahan Lawanopo
+03-12-2020,5.5,-3.41,123.23,10,84 km TimurLaut Konawe,Patahan Lawanopo
+03-12-2020,2.0,-2.35,119.16,10,60 km BaratLaut Mambi,Patahan Saddang
+03-12-2020,2.8,-1.55,120.08,10,16 km Tenggara Kulawi,Patahan Palu Koro
+03-12-2020,3.1,-1.40,120.51,10,59 km TimurLaut Kulawi,Patahan Palu Koro
+03-12-2020,2.8,-1.13,120.60,10,75 km TimurLaut Sigi,Patahan Palu Koro
+04-12-2020,2.5,-0.32,119.50,17,46 km BaratLaut Donggala,Patahan Palu Koro
+05-12-2020,2.6,-1.50,120.49,10,57 km Tenggara Kulawi,Patahan Palu Koro
+06-12-2020,4.2,-3.43,123.30,11,89 km TimurLaut Konawe,Patahan Lawanopo
+06-12-2020,2.0,-2.33,120.81,10,24 km TimurLaut Mangkutana,Patahan Matano
+06-12-2020,2.5,-1.87,120.31,10,60 km Tenggara Kulawi,Patahan Palu Koro
+07-12-2020,2.9,-2.91,119.41,10,10 km TimurLaut Mamasa,Patahan Saddang
+10-12-2020,2.9,-2.92,119.41,10,9 km TimurLaut Mamasa,Patahan Saddang
+10-12-2020,2.1,-2.90,119.42,10,12 km TimurLaut Mamasa,Patahan Saddang
+10-12-2020,2.5,-2.88,119.44,10,15 km TimurLaut Mamasa,Patahan Saddang
+10-12-2020,2.1,-2.82,119.33,10,16 km TimurLaut Mambi,Patahan Saddang
+10-12-2020,2.8,-2.28,120.79,10,23 km TimurLaut Mangkutana,Patahan Matano
+11-12-2020,3.5,-1.75,120.88,10,75 km BaratLaut Lembo,Patahan Matano
+11-12-2020,2.5,-1.73,120.83,10,75 km TimurLaut Mangkutana,Patahan Matano
+11-12-2020,3.0,-1.24,120.57,10,69 km TimurLaut Kulawi,Patahan Palu Koro
+12-12-2020,2.8,-1.40,120.45,12,52 km TimurLaut Kulawi,Patahan Palu Koro
+12-12-2020,3.5,-1.38,120.42,10,49 km TimurLaut Kulawi,Patahan Palu Koro
+12-12-2020,3.1,-1.36,120.47,10,55 km TimurLaut Kulawi,Patahan Palu Koro
+13-12-2020,3.5,-2.38,120.97,10,41 km BaratDaya Lembo,Patahan Matano
+14-12-2020,2.9,-3.13,119.15,11,19 km BaratLaut Sumarorong,Patahan Saddang
+14-12-2020,3.0,-2.20,120.70,10,22 km TimurLaut Mangkutana,Patahan Matano
+14-12-2020,3.1,-1.48,121.13,10,89 km BaratLaut Lembo,Patahan Matano
+15-12-2020,3.4,-1.79,120.40,10,60 km Tenggara Kulawi,Patahan Palu Koro
+16-12-2020,3.7,-2.87,119.45,10,17 km TimurLaut Mamasa,Patahan Saddang
+17-12-2020,3.7,-2.28,120.72,10,17 km TimurLaut Mangkutana,Patahan Matano
+17-12-2020,3.1,-0.67,119.86,10,14 km Tenggara Donggala,Patahan Palu Koro
+18-12-2020,2.7,-2.82,120.66,10,48 km Tenggara Masamba,Patahan Palu Koro
+20-12-2020,2.1,-3.00,119.39,10,5 km Tenggara Mamasa,Patahan Saddang
+20-12-2020,4.0,-1.44,121.16,10,93 km BaratLaut Lembo,Patahan Matano
+21-12-2020,3.7,-2.96,122.13,10,35 km Tenggara Kolono,Patahan Matano
+22-12-2020,3.4,-1.26,120.84,10,97 km TimurLaut Kulawi,Patahan Palu Koro
+24-12-2020,2.4,-2.33,119.20,10,62 km BaratLaut Mambi,Patahan Saddang
+25-12-2020,2.8,-2.90,119.45,10,14 km TimurLaut Mamasa,Patahan Saddang
+27-12-2020,3.1,-3.93,122.38,10,23 km BaratDaya Kendari,Patahan Lawanopo
+28-12-2020,2.9,-1.77,120.82,10,71 km TimurLaut Mangkutana,Patahan Matano
+28-12-2020,2.7,-1.65,120.20,10,33 km Tenggara Kulawi,Patahan Palu Koro
+29-12-2020,3.3,-2.80,122.15,10,23 km Tenggara Kolono,Patahan Matano
+29-12-2020,3.0,-2.51,120.71,10,20 km Tenggara Mangkutana,Patahan Matano
+30-12-2020,2.5,-2.17,121.20,10,17 km BaratLaut Lembo,Patahan Matano
+30-12-2020,3.3,-1.37,120.47,10,55 km TimurLaut Kulawi,Patahan Palu Koro
+30-12-2020,2.9,-1.36,119.64,10,36 km BaratDaya Sigi,Patahan Palu Koro
+31-12-2020,3.1,-1.23,120.96,10,111 km TimurLaut Kulawi,Patahan Palu Koro
