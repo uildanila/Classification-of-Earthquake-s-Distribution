@@ -1,7 +1,5 @@
 # Classification-of-Earthquake-s-Distribution
 
----
-
 **Context**
 
 *Sulawesi* merupakan wilayah Indonesia yang rawan terhadap gempa bumi tektonik karena secara geologis terletak pada pertemuan empat lempeng utama dunia yaitu lempeng Eurasia, lempeng Indo-Australia, lempeng Pasifik dan satu lempeng mikro yaitu lempeng Laut Filipina. Sulawesi juga seakan dibagi oleh berbagai patahan atau sesar (fault). Beberapa sesar yang aktif diantaranya Sesar Palu Koro, Sesar Matano, Sesar Saddang, Sesar Walanae, dan Sesar Lawanopo.
