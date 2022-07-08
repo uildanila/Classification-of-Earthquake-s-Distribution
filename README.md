@@ -1,4 +1,4 @@
-# Classification-of-Earthquake-s-Distribution
+# Classification of Earthquake's Distribution
 
 **Context**
 
